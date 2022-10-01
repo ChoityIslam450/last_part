@@ -1,0 +1,72 @@
+*{margin: 0;
+    padding: 0;
+
+}
+body{
+    font-family: sans-serif;
+    border-color: #7f5a83;
+    background-image: linear-gradient(
+        315deg,#7f5a83 0%,#0d324d 74%);
+     height: 100vh;
+    }
+
+.badge-notify{
+    background: red;
+    position: relative;
+    top:-20px;
+    right: 40px;
+    font-family: sans-serif;
+}
+.img_part{
+    display: flex
+}
+.addnewproduct{
+ background: transparent;
+ border: 2px solid white;
+ padding: 10px 15px;
+ color: #fff;
+ border-radius: 50px;
+ margin-top: 50ppx;
+}
+
+.button_one{
+ margin-bottom: 30px;
+
+
+}
+
+.btn{
+padding: 10px 20px;
+background: transparent;
+border: 2px solid #fff;
+display: flex;
+}
+.btn-danger{
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+.btn-info{
+    margin-right: 200px;
+    margin-top: 20px;
+    margin-top: 20px;
+    font-size: 13px;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+.pro_side{
+    
+margin-bottom: 20px;
+    
+margin-right: 170px;
+    
+color: #fff;
+    
+font-size: 14px;
+}
+
+
+
+
+
+
